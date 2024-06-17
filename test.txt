@@ -1,1 +1,2 @@
 This is git manage file.Please using it by "git init".
+hello world
